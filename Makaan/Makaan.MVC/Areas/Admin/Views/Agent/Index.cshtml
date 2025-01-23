@@ -1,0 +1,50 @@
+﻿@model List<Agent>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<!-- Begin Page Content -->
+<div class="container-fluid">
+
+    <!-- Page Heading -->
+
+    <h1 class="h3 mb-2 text-gray-800"><a class="btn btn-primary" asp-controller="Agent" asp-action="Create">Yarat</a></h1>
+
+
+    <!-- DataTales Example -->
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Agents</h6>
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                    <thead>
+                        <tr>
+                            <th>Id</th>
+                            <th>Image</th>
+                            <th>Department</th>
+                            <th>FullName</th>
+                            <th colspan="2">Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.Id</td>
+                                <td><img src="~/imgs/agents/@item.ImageUrl" width="70" /></td>
+                                <td>@item.Department?.Name</td>
+                                <td>@item.FullName</td>
+                                <td><a type="button" class="btn btn-success" asp-controller="Agent" asp-action="Update" asp-route-id="@item.Id">Update</a></td>
+                                <td><a type="button" class="btn btn-danger" asp-controller="Agent" asp-action="Delete" asp-route-id="@item.Id">Delete</a></td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+</div>
+

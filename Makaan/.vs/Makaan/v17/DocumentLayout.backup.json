@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I Novbe\\Desktop\\Makaan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C421A82D-C8ED-4B58-8476-1C33042E5FA1}|Makaan.MVC\\Makaan.MVC.csproj|c:\\users\\i novbe\\desktop\\makaan\\makaan.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C421A82D-C8ED-4B58-8476-1C33042E5FA1}|Makaan.MVC\\Makaan.MVC.csproj|solutionrelative:makaan.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C421A82D-C8ED-4B58-8476-1C33042E5FA1}|Makaan.MVC\\Makaan.MVC.csproj|c:\\users\\i novbe\\desktop\\makaan\\makaan.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C421A82D-C8ED-4B58-8476-1C33042E5FA1}|Makaan.MVC\\Makaan.MVC.csproj|solutionrelative:makaan.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C421A82D-C8ED-4B58-8476-1C33042E5FA1}|Makaan.MVC\\Makaan.MVC.csproj|c:\\users\\i novbe\\desktop\\makaan\\makaan.mvc\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C421A82D-C8ED-4B58-8476-1C33042E5FA1}|Makaan.MVC\\Makaan.MVC.csproj|solutionrelative:makaan.mvc\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C421A82D-C8ED-4B58-8476-1C33042E5FA1}|Makaan.MVC\\Makaan.MVC.csproj|c:\\users\\i novbe\\desktop\\makaan\\makaan.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C421A82D-C8ED-4B58-8476-1C33042E5FA1}|Makaan.MVC\\Makaan.MVC.csproj|solutionrelative:makaan.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C421A82D-C8ED-4B58-8476-1C33042E5FA1}|Makaan.MVC\\Makaan.MVC.csproj|c:\\users\\i novbe\\desktop\\makaan\\makaan.mvc\\areas\\admin\\controllers\\agentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C421A82D-C8ED-4B58-8476-1C33042E5FA1}|Makaan.MVC\\Makaan.MVC.csproj|solutionrelative:makaan.mvc\\areas\\admin\\controllers\\agentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C421A82D-C8ED-4B58-8476-1C33042E5FA1}|Makaan.MVC\\Makaan.MVC.csproj|c:\\users\\i novbe\\desktop\\makaan\\makaan.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C421A82D-C8ED-4B58-8476-1C33042E5FA1}|Makaan.MVC\\Makaan.MVC.csproj|solutionrelative:makaan.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C421A82D-C8ED-4B58-8476-1C33042E5FA1}|Makaan.MVC\\Makaan.MVC.csproj|c:\\users\\i novbe\\desktop\\makaan\\makaan.mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C421A82D-C8ED-4B58-8476-1C33042E5FA1}|Makaan.MVC\\Makaan.MVC.csproj|solutionrelative:makaan.mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C421A82D-C8ED-4B58-8476-1C33042E5FA1}|Makaan.MVC\\Makaan.MVC.csproj|c:\\users\\i novbe\\desktop\\makaan\\makaan.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C421A82D-C8ED-4B58-8476-1C33042E5FA1}|Makaan.MVC\\Makaan.MVC.csproj|solutionrelative:makaan.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\Makaan\\Makaan.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Makaan.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\Makaan\\Makaan.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Makaan.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAOYBAAAAAAAAAAAAAPIBAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T14:08:36.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\Makaan\\Makaan.MVC\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Makaan.MVC\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\Makaan\\Makaan.MVC\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Makaan.MVC\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T14:07:14.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\Makaan\\Makaan.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Makaan.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\Makaan\\Makaan.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Makaan.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T14:07:11.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AgentController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\Makaan\\Makaan.MVC\\Areas\\Admin\\Controllers\\AgentController.cs",
+              "RelativeDocumentMoniker": "Makaan.MVC\\Areas\\Admin\\Controllers\\AgentController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\Makaan\\Makaan.MVC\\Areas\\Admin\\Controllers\\AgentController.cs",
+              "RelativeToolTip": "Makaan.MVC\\Areas\\Admin\\Controllers\\AgentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T14:06:58.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\Makaan\\Makaan.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "Makaan.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\Makaan\\Makaan.MVC\\appsettings.json",
+              "RelativeToolTip": "Makaan.MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-23T14:05:33.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\Makaan\\Makaan.MVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Makaan.MVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\Makaan\\Makaan.MVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Makaan.MVC\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T19:23:58.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\Makaan\\Makaan.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Makaan.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\Makaan\\Makaan.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Makaan.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T19:24:06.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\Makaan\\Makaan.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Makaan.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\Makaan\\Makaan.MVC\\Program.cs",
+              "RelativeToolTip": "Makaan.MVC\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T05:53:28.43Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
